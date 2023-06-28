@@ -17,4 +17,4 @@ Here is a list of important repositories and who is managing each:
 
 |Repository|Description|Maintainer(s)|
 |:-:|:-:|:-:|
-|[api](https://github.com/mojitoteam/api)|Mojito's API service.|[bitterteriyaki](https://github.com/bitterteriyaki)|
+|[api](https://github.com/mojitoteam/api)|Repository for Mojito API service.|[bitterteriyaki](https://github.com/bitterteriyaki)|
