@@ -28,9 +28,10 @@ response was given then the issue will be closed.
 
 ## Starting
 
-This guide assumes you have [Git Flow](https://github.com/nvie/gitflow)
-installed on your system. The `main` branch is **always** the production
-branch, and the `develop` branch is **always** the development branch.
+This guide assumes you have
+[Git Flow](https://github.com/nvie/gitflow/wiki/Installation) installed on your
+system. The `main` branch is **always** the production branch, and the
+`develop` branch is **always** the development branch.
 
 To create a feature/bugfix branch, use the command:
 
