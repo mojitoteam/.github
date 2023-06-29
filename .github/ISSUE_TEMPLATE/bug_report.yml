@@ -10,7 +10,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: |
+      value: >
         Thanks for taking time to fill out this bug report! Please fill out
         the following information to help us debug your issue.
   - type: input
@@ -42,7 +42,7 @@ body:
     id: logs
     attributes:
       label: Revealing logs
-      description: |
+      description: >
         Please copy and paste any relevant logs here. This will be
         automatically formatted into code, so no need for backticks.
       render: shell-script
