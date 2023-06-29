@@ -1,16 +1,18 @@
-# What this Pull Request introduces?
+# What this PR introduces?
 
-<!-- Please, includes a description of this pull request. -->
+<!-- Please, includes a description of this PR. -->
 
-## Pull Request Checklist
+## PR Checklist
 
 Please check if your PR fulfills the following requirements:
 
 - [ ] I have followed Git Flow pattern to create the branch.
 - [ ] I have added all the plugins and configs as `dependencies`.
 - [ ] I have tested the updates and ensured that they run successfully.
+- [ ] I have updated the documentation accordingly (if necessary).
+- [ ] All the tests passed successfully.
 
-## Pull Request Type
+## PR Type
 
 What kind of change does this PR introduce?
 
@@ -25,13 +27,14 @@ What kind of change does this PR introduce?
 [ ] Chore (non-code changes)
 ```
 
-## Does this Pull Request introduce a breaking change?
+## Does this PR introduce a breaking change?
 
 ```txt
 [ ] Yes
 [ ] No
 ```
 
-<!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. -->
+<!-- If this PR contains a breaking change, please describe the impact and
+migration path for existing applications below. -->
 
 ## Other information (Screenshtos, details, etc.)
