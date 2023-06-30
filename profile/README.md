@@ -8,7 +8,7 @@ students of the University of Brasilia.
 - **Website**: Mojito website. (not available yet)
 - **Developer Documentation**: Documentation for developers. (not available yet)
 - **Discussions**: Request features or ask questions. (not available yet)
-- [**Contributing**](https://github.com/mojitoteam/.github/blob/main/.github/CONTRIBUTING.md): Learn how to contribute to Siege.
+- [**Contributing**](https://github.com/mojitoteam/.github/blob/main/.github/CONTRIBUTING.md): Learn how to contribute to Mojito.
 - [**Project Tracker**](https://github.com/orgs/mojitoteam/projects/1): Full GitHub project overview.
 
 ## Repositories
